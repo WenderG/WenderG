@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thiago Wender Gonsales
+- 👋 Hello, I’m Wender
 - 👀 I’m interested in games, movies and music
 - 🌱 I’m currently learning JavaScrip, PHP and Java
 - 📫 How to reach me: linkedin.com/in/wenderthiagogonsales/
