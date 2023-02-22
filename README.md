@@ -1,7 +1,12 @@
-- 👋 Hello, I’m Wender
-- 👀 I’m interested in games, movies and music
-- 🌱 I’m currently learning JavaScrip, PHP and Java
-- 📫 How to reach me: linkedin.com/in/wenderthiagogonsales/
+👋 Olá, meu nome é Thiago! <br>
+Sou desenvolvedor Front-End desde 2022. Atualmente, estou desenvolvendo projetos novos toda semana para a minha comunidade de programdores, além dos projetos semestrais que tenho que entregar para a minha faculdade de engenharia da computação. <br>
+📫 Veja meu linkedIn: linkedin.com/in/wenderthiagogonsales/
+
+>Principais tecnologias:
+* HTML
+* CSS
+* JavaScript
+* React
 
 <!---
 WenderG/WenderG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
