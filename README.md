@@ -2,11 +2,12 @@
 Sou programador desde 2022. Trabalhando de forma autonoma em projetos pessoais e OpenSource, também desenvolvendo softwares para a minha faculdade de Engenharia da Computação. <br> <br>
 📫 Veja meu linkedIn: linkedin.com/in/wenderthiagogonsales/
 
->Principais tecnologias:
+>Principais tecnologias com que trabalho:
 * React;
 * Java;
 * C;
 * Python;
+* MySQL;
 
 <!---
 WenderG/WenderG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
