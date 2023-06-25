@@ -1,6 +1,8 @@
 👋 Olá, eu sou o Thiago! <br> <br>
 Sou programador desde 2022. Trabalhando de forma autonoma em projetos pessoais e OpenSource. Também desenvolvo softwares para minha faculdade de Engenharia da Computação, cujo estou no oitavo semestre atualmente. <br> <br>
-📫 Veja meu linkedIn: linkedin.com/in/wenderthiagogonsales/
+
+📫 Veja meu linkedIn: linkedin.com/in/wenderthiagogonsales/ <br>
+🚀 Perfil no Tinkercad: https://www.tinkercad.com/users/h6qJao2lbhO
 
 >Principais tecnologias com que trabalho:
 * React;
