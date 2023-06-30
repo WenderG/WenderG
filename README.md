@@ -1,5 +1,5 @@
 👋 Olá, eu sou o Thiago! <br> <br>
-<p>Sou programador desde 2022, estagiando na Secretaria da Educação em Caraguatatuba-SP. Realizo de forma autonoma projetos pessoais e OpenSource. Também desenvolvo softwares para minha faculdade de Engenharia da Computação, cujo estou no oitavo semestre atualmente.</p> <br>
+<p>Programador desde 2022, estagiando na Secretaria da Educação em Caraguatatuba-SP. Realizo de forma autonoma projetos pessoais e OpenSource. Também desenvolvo softwares para minha faculdade de Engenharia da Computação, cujo estou no oitavo semestre atualmente.</p> <br>
 
 📫 Veja meu linkedIn: linkedin.com/in/wenderthiagogonsales/ <br>
 🚀 Perfil no Tinkercad: https://www.tinkercad.com/users/h6qJao2lbhO
