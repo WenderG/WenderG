@@ -6,7 +6,6 @@
 
 >Principais tecnologias com que trabalho:
 * Java;
-* Python;
 * SQL;
 
 <!---
