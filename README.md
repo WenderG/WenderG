@@ -16,15 +16,15 @@
 </ul>
 <br>
 <br>
-<h2>🌱 Paixão por Inovação</h2>
+<h3>🌱 Paixão por Inovação</h3>
 <br>
 <p>Tenho interesse em projetos que impactem positivamente a vida das pessoas, unindo criatividade e tecnologia. Busco constantemente aprimorar minhas competências e explorar novas possibilidades na interseção entre engenharia, computação e sustentabilidade.</p>
 <br>
-<h2>📈 Objetivo Profissional</h2>
+<h3>📈 Objetivo Profissional</h3>
 <br>
 <p>Desenvolver soluções tecnológicas que impulsionem empresas e pessoas, focando em áreas como IoT, desenvolvimento web e automação.</p>
 <br>
-<h2>📬 Vamos nos conectar?</h2>
+<h3>📬 Vamos nos conectar?</h3>
 Estou sempre aberto a novos desafios, parcerias e ideias. Entre em contato para conversarmos sobre tecnologia e inovação!</p>
 <br>
 📫 Veja meu linkedIn: linkedin.com/in/wenderthiagogonsales/
